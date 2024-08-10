@@ -1,0 +1,1 @@
+variable "COMMON_NAME" { }
